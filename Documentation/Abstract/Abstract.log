@@ -1,25 +1,25 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.9.17)  20 SEP 2024 08:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.14)  14 OCT 2024 10:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./Synapse_Abstract.tex
-(Synapse_Abstract.tex
+**./Abstract.tex
+(Abstract.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-07-20>
+L3 programming layer <2024-08-30>
 (C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2024/02/08 v1.4n Standard LaTeX document class
 (C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
 File: bk12.clo 2024/02/08 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count190
-\c@chapter=\count191
-\c@section=\count192
-\c@subsection=\count193
-\c@subsubsection=\count194
-\c@paragraph=\count195
-\c@subparagraph=\count196
-\c@figure=\count197
-\c@table=\count198
+\c@part=\count194
+\c@chapter=\count195
+\c@section=\count196
+\c@subsection=\count197
+\c@subsubsection=\count198
+\c@paragraph=\count199
+\c@subparagraph=\count266
+\c@figure=\count267
+\c@table=\count268
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen141
@@ -37,9 +37,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count199
-\Gm@cntv=\count266
-\c@Gm@tempcnt=\count267
+\Gm@cnth=\count269
+\Gm@cntv=\count270
+\c@Gm@tempcnt=\count271
 \Gm@bindingoffset=\dimen142
 \Gm@wd@mp=\dimen143
 \Gm@odd@mp=\dimen144
@@ -57,24 +57,19 @@ Package: times 2020/03/25 PSNFSS-v9.3 (SPQR)
 (C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 12
-.
-LaTeX Font Info:    No file TUptm.fd. on input line 12.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+2.
 
-
-LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 12.
-
-
-(C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
-ex.def
-File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count268
+(C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
 \l__pdf_internal_box=\box52
-\g__pdf_backend_annotation_int=\count269
-\g__pdf_backend_link_int=\count270
-) (Synapse_Abstract.aux)
-\openout1 = `Synapse_Abstract.aux'.
+) (Abstract.aux)
+\openout1 = `Abstract.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -85,14 +80,6 @@ LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
-2.
-
-(C:\Users\csgau\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
-File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -100,9 +87,9 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: xetex
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: xetex
+* driver: pdftex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -134,10 +121,6 @@ LaTeX Font Info:    ... okay on input line 12.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 14.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
@@ -156,23 +139,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
 [1
 
-] (Synapse_Abstract.aux)
+{C:/Users/csgau/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/csga
+u/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}] (Abstract.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-07-20>
+L3 programming layer <2024-08-30>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
  ) 
 Here is how much of TeX's memory you used:
- 1151 strings out of 409029
- 20134 string characters out of 5756741
- 1927612 words of memory out of 5000000
- 23877 multiletter control sequences out of 15000+600000
- 558085 words of font info for 38 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 57i,5n,65p,1081b,104s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 1158 strings out of 473899
+ 20289 string characters out of 5726499
+ 414572 words of memory out of 5000000
+ 24079 multiletter control sequences out of 15000+600000
+ 562085 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,5n,65p,1075b,104s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/csgau/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pf
+b><C:/Users/csgau/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pf
+b>
+Output written on Abstract.pdf (1 page, 31204 bytes).
+PDF statistics:
+ 17 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-Output written on Synapse_Abstract.pdf (1 page).
